@@ -73,6 +73,7 @@
     <Compile Include="MyEx08_Transform_ProjectBasePoint_To_SurveyPoint.cs" />
     <Compile Include="MyEx09_GetCoord_from_global_to_local.cs" />
     <Compile Include="MyEx10_Rotate_Transform.cs" />
+    <Compile Include="MyEx11_Get_list_view.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MyEx02_CreateBackground.cs" />
   </ItemGroup>
